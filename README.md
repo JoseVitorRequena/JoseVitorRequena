@@ -52,10 +52,10 @@ Languages and tools
   
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=SpykeTiger&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=SpykeTiger&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true">
 </a>
 </div>
 <br>
   
-&nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=SpykeTiger&theme=midnight-purple)](https://git.io/streak-stats)
+&nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=SpykeTiger&theme=gruvbox)](https://git.io/streak-stats)
   
