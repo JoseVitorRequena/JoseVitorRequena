@@ -4,7 +4,7 @@
   
 - 🤖 I'm studying to become a Data Scientist
 - 😁 I’m currently learning: Linux, Web stuff, Tensor Flow, Machine Learning
-- 👨‍🎓 Applying for Computer Science at (UNIFESP)
+- 👨‍🎓 Applying for Computer Science at (UNIFESP), currently studiyng at IFSP
 
 <h3>
     Profiles
