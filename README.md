@@ -35,7 +35,7 @@ Languages and tools
 </div>
 <div align="center">
 <a href="https://www.tensorflow.org/?hl=pt-br">
-  <img height="40" src="https://ww1.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png?lossy=1&w=2560&ssl=1"> 
+  <img height="40" src="[https://ww1.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png?lossy=1&w=2560&ssl=1](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png)"> 
 </a> &nbsp; 
 <a href="https://www.arduino.cc">
   <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png"> 
