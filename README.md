@@ -57,5 +57,4 @@ Languages and tools
 </div>
 <br>
   
-&nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=SpykeTiger&theme=gruvbox)](https://git.io/streak-stats)
-  
+
