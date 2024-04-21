@@ -1,5 +1,10 @@
 
-### Hello there!
+### Hello, you! You're finally awake! <img>
+
+![Raikou](https://github.com/SpykeTiger/SpykeTiger/assets/100696361/910e2b0a-79c0-4add-b4d1-3a44e0883b10)
+
+##### I'm a problem solver, not just a programmer 
+
 #### About Me
   
 - 🤖 I'm studying to become a Data Scientist
