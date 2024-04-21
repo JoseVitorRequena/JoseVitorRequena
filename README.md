@@ -1,24 +1,46 @@
 
-### Hello, you! You're finally awake! <img>
+<div align="center">
 
-![Raikou](https://github.com/SpykeTiger/SpykeTiger/assets/100696361/910e2b0a-79c0-4add-b4d1-3a44e0883b10)
+  ### Hello, you! You're finally awake!  <img src="./assets/Raikou.png" style="height: 100px;" align="center" justify="center">
+</div>
 
-##### I'm a problem solver, not just a programmer 
 
-#### About Me
-  
-- 🤖 I'm studying to become a Data Scientist
-- 😁 I’m currently learning: Linux, Web stuff, Tensor Flow, Machine Learning
-- 👨‍🎓 Currently studiyng Computer Science at (UNIFESP)
+```
+“Everyone in this country should learn how to program because it teaches you how to think” – Steve Jobs.
+```
 
-<h3>
-    Profiles
-</h3>
+
+
+#### About Me 
+- 🤓 I'm a Problem Solver, not only a programmer
+- 🤖 Studying to become a Data Scientist
+- 😁 Currently learning: Linux, Web stuff, Tensor Flow, Machine Learning
+- 👨‍🎓 Currently studiyng Computer Science at Universidade Federal de São Paulo (UNIFESP)
+
+
+<details>
+    <Summary>Profiles and some extra info </Summary>
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/josé-vitor-sousa-cardoso-requena-b06bb5248/) &nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199003578266/)
-  
-<h2 align="center">
+
+<div align="center">
+
+#### If you ever notice an orange Sabertooth, That's Spyke!!
+A character that I'hv created, and the green one is Sophia. My girlfriend's character.
+
+<img src="./assets/sophia comm.png" height="450px"> </img>
+
+<br><br>
+PS: The pokemon at the top right is Raikou. My favorite Pokemon
+
+</div>
+</details>
+
+
+
+
+<!-- <h2 align="center">
 Languages and tools
 </h2>
 <div align="center">
@@ -53,13 +75,21 @@ Languages and tools
 <div align="center">
 ^^ Click us ^^
 </div>
+<br> -->
+
+<details>
+<Summary> Here is Some Statistics</Summary>
 <br>
-  
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=SpykeTiger&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true">
 </a>
+<br><br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SpykeTiger&layout=compact&theme=gruvbox">
 </div>
-<br>
+
+</div>
+</details>
   
 
