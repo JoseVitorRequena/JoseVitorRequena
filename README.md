@@ -17,29 +17,6 @@
 - 😁 Currently learning: Linux, Web stuff, Tensor Flow, Machine Learning
 - 👨‍🎓 Currently studiyng Computer Science at Universidade Federal de São Paulo (UNIFESP)
 
-
-<details>
-    <Summary>Profiles and some extra info </Summary>
-
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/josé-vitor-sousa-cardoso-requena-b06bb5248/) &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199003578266/)
-
-<div align="center">
-
-#### If you ever notice an orange Sabertooth, That's Spyke!!
-A character that I'hv created, and the green one is Sophia. My girlfriend's character.
-
-<img src="./assets/sophia comm.png" height="450px"> </img>
-
-<br><br>
-PS: The pokemon at the top right is Raikou. My favorite Pokemon
-
-</div>
-</details>
-
-
-
-
 <!-- <h2 align="center">
 Languages and tools
 </h2>
