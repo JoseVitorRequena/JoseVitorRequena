@@ -15,7 +15,7 @@
 - 🤓 I'm a Problem Solver, not only a programmer
 - 🤖 Studying to become a Data Scientist
 - 😁 Currently learning: Linux, Web stuff, Tensor Flow, Machine Learning
-- 👨‍🎓 Currently studiyng Computer Science at Universidade Federal de São Paulo (UNIFESP)
+- 👨‍🎓 Currently studiyng Computer Engineering at Universidade Federal de São Paulo (UNIFESP)
 
 <!-- <h2 align="center">
 Languages and tools
